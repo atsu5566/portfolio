@@ -9,7 +9,7 @@ body {
   width:100%;
   text-align:center;
   margin:0px auto;
-  background-color:rgb(230, 225, 225);
+  background-color:white;
 }
 .all-contents{
   width:1024px;
@@ -77,7 +77,7 @@ header a{
 
 /*services*/
 .services{
-  background-color: rgb(230, 225, 225);
+  background-color: white;
   width:1024px;
   padding-top:100px;
 }
@@ -109,7 +109,7 @@ header a{
 /*plans*/
 .plans{
   width:1024px;
-  background-color: rgb(230, 225, 225);
+  background-color: white;
   padding-top:100px;
 }
 .right{
@@ -140,7 +140,7 @@ header a{
 /*areas*/
 .areas{
   width:1024px;
-  background-color: rgb(230, 225, 225);
+  background-color: white;
   padding-top:100px;
 }
 .areas .contents{
@@ -149,7 +149,7 @@ header a{
 }
 /*inquiry*/
 .inquiry{
-  background-color: rgb(230, 225, 225);
+  background-color: white;
   width:1024px;
   padding-top:100px;
 }
@@ -239,7 +239,7 @@ header a{
   width:1024px;
 
   text-align:right;
-  background-color:rgb(230, 225, 225);
+  background-color:white;
 }
 .last{
   font-size:30px;
